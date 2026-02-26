@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+I'm+Amey+Thakur!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+I'm+Chamodh+Eranda!;" />
 </h1>
 
 <img align="right" width="400" src="docs/Programmer.gif" />
@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=20&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Computer+Engineer;Research+Scholar;" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amey-Thakur&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=chamo222&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 📝 **[Research Papers](https://scholar.google.ca/citations?user=0inooPgAAAAJ)** ⟶ Published Work
 
-⭐ **[GitHub Lists](https://github.com/Amey-Thakur?tab=stars)** ⟶ Starred Repositories
+⭐ **[GitHub Lists](https://github.com/eranda_chamodh?tab=stars)** ⟶ Starred Repositories
 
 ---
 
@@ -43,20 +43,20 @@
 </p>
 <p align="center">
 <a href="https://www.x.com/iameythakur"><img src="docs/X.png" alt="X" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/iameythakur"><img src="docs/Instagram.png" alt="Instagram" width="50" height="50"/></a>
+<a href="https://www.instagram.com/eranda_chamodh"><img src="docs/Instagram.png" alt="Instagram" width="50" height="50"/></a>
 </p>
 
 ---
 
-<p align="center">&nbsp;<img align="center" src="docs/languages.svg?t=1771866425" alt="Amey-Thakur" /></p>
+<p align="center">&nbsp;<img align="center" src="docs/languages.svg?t=1771866425" alt="chamo222" /></p>
 
 ---
 
-<p align="center">&nbsp;<img align="center" src="docs/stats.svg?t=1772085484" alt="Amey-Thakur" /></p>
+<p align="center">&nbsp;<img align="center" src="docs/stats.svg?t=1772085484" alt="chamo222" /></p>
 
 ---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amey-Thakur&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Amey-Thakur" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamo222&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="chamo222" /></p>
 
 ---
 
