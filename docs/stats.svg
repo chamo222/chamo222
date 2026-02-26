@@ -9,7 +9,7 @@
     
     <!-- Background Frame -->
     <rect width="495" height="195" rx="10" fill="#000000"/>
-    <text x="30" y="38" class="title" fill="#00D4FF">Amey-Thakur's GitHub Stats</text>
+    <text x="30" y="38" class="title" fill="#00D4FF">Chamodh-Eranda's GitHub Stats</text>
     
     <!-- Quantitative Metrics Analysis -->
     <g transform="translate(30, 65)">
