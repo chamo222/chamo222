@@ -1,9 +1,8 @@
 """
 ================================================================================
 FILE NAME      : stats.py
-AUTHOR         : Amey Thakur (https://github.com/Amey-Thakur)
-                 Mega Satish (https://github.com/msatmod)
-RELEASE DATE   : July 5, 2021
+AUTHOR         : Amey Thakur (https://github.com/chamo222)
+RELEASE DATE   : February 26, 2026
 LICENCE        : MIT License
 
 DESCRIPTION    : 
