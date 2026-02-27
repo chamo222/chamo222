@@ -22,7 +22,7 @@
 
 📝 **[Research Papers](https://scholar.google.ca/citations?user=0inooPgAAAAJ)** ⟶ Published Work
 
-⭐ **[GitHub Lists](https://github.com/eranda_chamodh?tab=stars)** ⟶ Starred Repositories
+⭐ **[GitHub Lists](https://github.com/chamo222?tab=stars)** ⟶ Starred Repositories
 
 ---
 
