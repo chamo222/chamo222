@@ -12,9 +12,9 @@
 
 </div>
 
-💭 **[Amey's Arc](https://amey-thakur.github.io/)** ⟶ Advancing Ideas & Projects
+💭 **[Amey's Arc]()** ⟶ Advancing Ideas & Projects
 
-🎓 **[Computer Engineering](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)** ⟶ Throughout Courses
+🎓 **[Computer Engineering]()** ⟶ Throughout Courses
 
 📁 **[Projects](https://github.com/stars/chamo222/lists/projects)** ⟶ Curated Collection
 
