@@ -18,9 +18,9 @@
 
 📁 **[Projects](https://github.com/stars/chamo222/lists/projects)** ⟶ Curated Collection
 
-🎬 **[Engineering Projects](https://www.youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)** ⟶ Video Demonstrations
+🎬 **[Engineering Projects]()** ⟶ Video Demonstrations
 
-📝 **[Research Papers](https://scholar.google.ca/citations?user=0inooPgAAAAJ)** ⟶ Published Work
+📝 **[Research Papers]()** ⟶ Published Work
 
 ⭐ **[GitHub Lists](https://github.com/chamo222?tab=stars)** ⟶ Starred Repositories
 
